@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MingyuanXie_MAPD711_Task1</string>
+    <string name="text_name">MingyuanXie</string>
+    <string name="text_address">16526 lighthouse view Dr</string>
+    <string name="text_profession">software engineer</string>
+    <string name="text_dreamJob">project manager</string>
+    <string name="text_favoriteFood">meat</string>
+
+</resources>
